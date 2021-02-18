@@ -18,9 +18,9 @@ An expense budget tracker for travel that uses IndexDB to work both on and offli
 Clone the git repository to your chosen directory. Navigate to the root of that directory using your chosen terminal/console application and type npm i to install all dependencies.
 
 ## Technologies
-![html](https://img.shields.io/badge/html-15.5%25-orange)
-![javascript](https://img.shields.io/badge/javascript-79.4%25-yellow)
-![css](https://img.shields.io/badge/css-5.1%25-purple)
+![html](https://img.shields.io/badge/html-20.4%25-orange)
+![javascript](https://img.shields.io/badge/javascript-58.8%25-yellow)
+![css](https://img.shields.io/badge/css-20.8%25-purple)
 
 ## Usage
 Run the application by typing npm start, node server.js, or nodemon server.js (if you wish to use nodemon for a dev environment). Navigate to localhost:3000, where the app should appear. Name your transactions and enter a currency amount using the inputs at the top. You can choose whether to debit or credit them to your account with the Add Funds or Subtract Funds buttons. A download button appears in the address bar which you can use to run the budget tracker as a native app. You can open it from the URL bar from the same location.
